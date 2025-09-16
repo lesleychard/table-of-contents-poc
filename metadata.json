@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Table of Contents Editor",
+  "description": "An application to create, modify, and manage a table of contents in an expandable tree structure. Users can add, edit, delete, and reorder items seamlessly.",
+  "requestFramePermissions": []
+}
